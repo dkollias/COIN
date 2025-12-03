@@ -1,6 +1,9 @@
 # From Cognitive Priors to Instance Semantics: A Unified Framework for Multi-task Affective Computing
 
-**The project is the official implementation of the paper.**
+**The project is the official implementation of the paper:**
 
 > **[From Cognitive Priors to Instance Semantics: A Unified Framework for Multi-task Affective Computing](#) (WACV 2026)**  
 > **Guanyu Hu, Dimitrios Kollias, Xinyu Yang**
+
+
+This github repo will be updated with code shortly. Thanks for your patience!
